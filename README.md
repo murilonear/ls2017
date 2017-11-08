@@ -1,9 +1,9 @@
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/murilonear/ls2017  |   |
-| 2  |   |   |   |
-| 3  |   |   |   |
-| 4  |   |   |   |
+| 2  | 1  | https://github.com/murilonear/ls2017/wiki/Comandos  |   |
+| 3  | 1  |   |   |
+| 4  | 1  | https://github.com/murilonear/ls2017/wiki/environment  |   |
 | 5  |   |   |   |
 | 6  |   |   |   |
 | 7  |   |   |   |
