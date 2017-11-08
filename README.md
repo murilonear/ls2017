@@ -11,8 +11,8 @@
 | 9  | 1  | https://github.com/murilonear/ls2017/wiki/Análise-estática  |   |
 | 10  | 0  |  https://github.com/murilonear/ls2017/tree/master/javancss |   |
 | 11  | 1  |  https://github.com/murilonear/ls2017/wiki/arquitetura |   |
-| 12  |   |   |   |
-| 13  |   |   |   |
-| 14  |   |   |   |
+| 12  | 1 |  https://github.com/murilonear/ls2017/wiki/visualvm |   |
+| 13  | 1  | https://github.com/murilonear/ls2017/wiki/sonarcloud |   |
+| 14  | 1  | https://github.com/murilonear/ls2017/wiki/softvis3d  |   |
 | 15  |   |   |   |
 | 16  |   |   |   |
