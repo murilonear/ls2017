@@ -2,7 +2,7 @@
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/murilonear/ls2017  |   |
 | 2  | 1  | https://github.com/murilonear/ls2017/wiki/Comandos  |   |
-| 3  | 1  | https://github.com/murilonear/ls2017/blob/master/Lista%2001.pdf (lista 01)  |   |
+| 3  | 1  | https://github.com/murilonear/ls2017/blob/master/Lista%2001.pdf (Lista 01) e https://github.com/murilonear/ls2017/blob/master/Lista%2002.pdf (Lista 02)  |   |
 | 4  | 1  | https://github.com/murilonear/ls2017/wiki/environment  |   |
 | 5  | 1  | https://github.com/murilonear/ls2017/wiki/Landscape---Respostas  |   |
 | 6  | 1 | https://github.com/murilonear/ls2017/wiki/Aula-06_09_2017  |   |
