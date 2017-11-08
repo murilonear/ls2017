@@ -1,6 +1,6 @@
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
-| 1  |   | https://github.com/murilonear/ls2017  |   |
+| 1  | 1  | https://github.com/murilonear/ls2017  |   |
 | 2  |   |   |   |
 | 3  |   |   |   |
 | 4  |   |   |   |
